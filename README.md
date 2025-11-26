@@ -1,4 +1,4 @@
-## Projeto de Pós-Doutoramento
+## Projeto de Pós-Doutorado
 
 ### Low-complexity Approximations of the WECS Method for SAR Change Detection
 
